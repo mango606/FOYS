@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hand606.studyQnA">
+
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/manager_logo3"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Testous">
+        <activity
+            android:name="com.example.hand606.studyQnA.MainActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.hand606.studyQnA.BoardActivity"
+            android:screenOrientation="portrait"
+           />
+        <activity
+            android:name="com.example.hand606.studyQnA.BoardWriteActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name="com.example.hand606.studyQnA.CommentListActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name="com.example.hand606.studyQnA.GoogleLoginActivity"
+            android:screenOrientation="portrait">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.hand606.studyQnA.SettingActivity"
+            android:screenOrientation="portrait"
+            android:label=""
+            android:noHistory="false"
+            />
+        <activity
+            android:name="com.example.hand606.studyQnA.AddNoteActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.example.hand606.studyQnA.CalendarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.example.hand606.studyQnA.NotePreviewActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.example.hand606.studyQnA.ScheduleActivity"
+            android:screenOrientation="portrait"
+            />
+    </application>
+</manifest>

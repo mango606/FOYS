@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A4CA8</color>      <!--> 파1 <!-->
+    <color name="colorSchedule">#FEBEDD</color>     <!--> 핑1 <!-->
+    <color name="colorPrimaryDark">#3A4CA8</color>  <!--> 파1 <!-->
+    <color name="colorAccent">#3A4CA8</color>       <!--> 파1 <!-->
+    <color name="bottom_section_color">#a6a6a6</color>
+    <color name="colorGray">#a6a6a6</color>
+    <color name="colorPink">#F1B3B8</color>
+    <color name="colorOrange">#fbcbbd</color>
+    <color name="colorYellow2">#fcebbe</color>
+    <color name="colorGreen">#EAEFCF</color>
+    <color name="colorPuple">#E3C4DE</color>
+
+    <color name="colorMint">#C5E8C2</color>
+    <color name="colorYellow">#FDF4D8</color>   // #FFDCAC 변경
+    <color name="colorScheduleUpdate">#BDD798</color>   // 변경
+    <color name="colorText">#644437</color>
+
+    <color name="bottom_state_checked">#DF4D4D</color>
+    <color name="colorWhite">#f6f6f6</color>
+    <color name="colorBackground">#F3F5FF</color>   // 변경
+    <color name="colorwhite2">#E3E3E3</color>
+    <color name="colorBlack">#000000</color>
+    <color name="tabSelectedTextColor">#4b4545</color>  // 변경
+    <color name="textcolor">#4b4545</color>
+
+</resources>
