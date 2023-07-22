@@ -24,3 +24,4 @@ https://github.com/mango606/capstone-design-foys-app/assets/75062110/6e6ff1d6-6c
 - d. [블로그](https://codenet.tistory.com/31)를 참고하여 해결함.
 # 4️⃣ 후기
 - Firebase를 처음 사용해서 그런지 json 파일을 가져와서 연결하는 과정이 어려웠음.
+- 팀원들이 각자 안드로이드와 ios로 개발을 진행하여 발표자료에 사용한 이미지나 앱 전체적인 구성이 조금씩 다름. 단계적으로 진행했으면 좋을텐데 아쉬움.
