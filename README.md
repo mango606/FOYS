@@ -25,3 +25,5 @@ https://github.com/mango606/capstone-design-foys-app/assets/75062110/6e6ff1d6-6c
 # 4️⃣ 후기
 - Firebase를 처음 사용해서 그런지 json 파일을 가져와서 연결하는 과정이 어려웠음.
 - 팀원들이 각자 안드로이드와 ios로 개발을 진행하여 발표자료에 사용한 이미지나 앱 전체적인 구성이 조금씩 다름. 단계적으로 진행했으면 좋을텐데 아쉬움.
+- 자문 결과, Flutter로 바꾸기로 하여 2023년 12월 21일까지 최종적으로 마무리짓기로 함.
+- [변경한 레포지토리](https://github.com/namudongs/kangwonuniv-capstone-flutter.git)
