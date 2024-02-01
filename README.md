@@ -1,7 +1,7 @@
 # 1️⃣ 시연 영상
 https://github.com/mango606/capstone-design-foys-app/assets/75062110/6e6ff1d6-6cd1-4b06-9b77-bc90b4d177f1
 
-# 2️⃣ 중간보고서 발표자료.[pdf](https://drive.google.com/file/d/1NGhHzgOrtHRMfwPVfphG4wY_Bx7JjTtR/view?usp=sharing)
+# 2️⃣ 중간보고서 발표자료.[pdf](https://drive.google.com/file/d/1MfyeFPzA_X2sRPzDMR9ZdxvQAbx25YhQ/view?usp=sharing)
 ![슬라이드1](https://github.com/mango606/capstone-design-foys-app/assets/75062110/bde782b5-8a85-422d-8f92-e94fa90dcd6f)
 ![슬라이드2](https://github.com/mango606/capstone-design-foys-app/assets/75062110/edbb570d-dd34-44ad-ba85-80cea5a64fae)
 ![슬라이드3](https://github.com/mango606/capstone-design-foys-app/assets/75062110/f443d4f2-e593-41aa-a0e6-64bebb034f72)
